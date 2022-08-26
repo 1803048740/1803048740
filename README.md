@@ -8,7 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1803048740&show_icons=true&theme=radical)
 
 <a href="https://github.com/1803048740"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1803048740&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="1803048740's github stats" /></a> 
-<a href="https://github.com/1803048740"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1803048740&layout=compact&theme=vue&hide_border=true" /></a>
+
 
 <!--
 **1803048740/1803048740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
